@@ -329,7 +329,7 @@ def test():
     # build a response dict to send back to client
     response = endGAME('some_image1.jpg','some_image2.jpg',req3)
     imgo = base64.b64decode(response)
-    filename = 'loda.jpg'  
+    filename = 'l.jpg'  
     with open(filename, 'wb') as f:
         f.write(imgo)
     print(response)    
