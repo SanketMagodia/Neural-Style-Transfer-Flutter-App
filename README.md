@@ -1,6 +1,6 @@
 
 # Neural Style Transfer Flutter App
-![alt text](https://github.com/SanketMagodia/GAN-vs-DCGAN-vs-CGAN/blob/main/output.png)
+![alt text](https://github.com/SanketMagodia/Neural-style-transfer/blob/main/style.jpeg)
 
 ## Description
 
