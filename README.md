@@ -36,7 +36,7 @@ Ensure you have the required dependencies
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/SanketMagodia/Neural-style-transfer/blob/main/style.jpeg
+git clone https://github.com/SanketMagodia/Neural-Style-Transfer-Flutter-App.git
 ```
 ### 2. Start the server
 ./server
